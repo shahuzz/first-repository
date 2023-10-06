@@ -1,0 +1,92 @@
+body {
+    background-image: url('https://www.gyproc.in/images/reasonpic1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+
+.box1 {
+
+    text-align: right;
+    word-spacing: 40px;
+    margin-right: 70px;
+
+}
+
+.box1 a {
+
+    color: black;
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.inputbox {
+    position: absolute;
+    top: 250px;
+    left: 350px;
+
+}
+
+.box2 h1 {
+
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+.box2 p {
+    margin-left: 150px;
+    font-size: 20px;
+    font-weight: bolder;
+
+
+}
+
+.field {
+    margin-left: 200px;
+
+
+
+}
+
+.head1 {
+    background-color: #52b2bf;
+    width: 20%;
+    border-radius: 20px;
+    height: 40px;
+    color: white;
+    font-weight: bolder;
+    border: none;
+    margin-top: 10px;
+
+}
+
+.head2 {
+    background: none;
+    width: 20%;
+    border-radius: 20px;
+    height: 40px;
+    font-weight: bolder;
+    margin-left: 20px;
+    border-color: #52b2bf;
+    margin-top: 10px;
+
+}
+
+.h {
+    margin: 0;
+    margin-left: 40px;
+}
+
+.head3 {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.box1 a:hover {
+    border-bottom: 4px solid #52b2bf;
+}

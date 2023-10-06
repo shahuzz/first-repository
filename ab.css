@@ -1,0 +1,27 @@
+.card{
+
+    margin: auto;
+    margin-top: 30px;
+    
+}
+
+.maindiv{
+
+    margin-top: 100px;
+
+}
+   .card-title{
+    text-align: center;
+   
+   }
+   .maindiv{
+    width: 70%;
+    position: relative;
+    left: 250px;
+   
+   }
+  .action{
+    position: relative;
+    left: 80px
+  }
+  

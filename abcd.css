@@ -1,0 +1,52 @@
+.head a{
+
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 1000px;
+   
+}
+.link{
+    font-weight: lighter;
+
+}
+.btn{
+    position: relative;
+    left: 1000px;
+    
+   
+}
+.btn button{
+    background-color:crimson;
+    color: white;
+    font-weight: bolder;
+    border: none;
+}
+img{
+    height: 50%;
+    width: 40%;
+    margin-top: 0;
+    margin-right: 30px;
+    position: relative;
+    bottom: 150px;
+}
+
+.headtitle{
+    word-spacing: 30px;
+}
+.head2{
+    position: relative;
+    top:160px;
+    left: 350px;
+}
+.head2 h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.head2 h2{
+    font-weight: lighter;
+    font-size: 40px;
+}
+.head2 p{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
